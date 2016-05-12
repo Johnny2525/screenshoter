@@ -1,0 +1,13 @@
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\bin\Debug\Screenshoter.exe.config
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\bin\Debug\Screenshoter.exe
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\bin\Debug\Screenshoter.pdb
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\Screenshoter.exe
+C:\Users\jhemmerl\Desktop\Screenshoter (działajacy, odblokowana pozycja)\WindowsFormsApplication2\obj\Debug\Screenshoter.pdb
+C:\Users\j_hemmerling\Desktop\ScreenshoterFinal\WindowsFormsApplication2\bin\Debug\Screenshoter.exe.config
+C:\Users\j_hemmerling\Desktop\ScreenshoterFinal\WindowsFormsApplication2\obj\Debug\Screenshoter.exe
+C:\Users\j_hemmerling\Desktop\ScreenshoterFinal\WindowsFormsApplication2\obj\Debug\Screenshoter.pdb
