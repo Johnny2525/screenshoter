@@ -7,4 +7,4 @@ and release left mouse button.
 Screenshot save on desktop in jpg. 
 Screenshoter work on main screen (if you've got more then one screen). 
 
-Work with Win 7 and Win 8 (i don't test it with other Windows). 
+Work with Win 7 and Win 8 (I don't test it with other Windows). 
